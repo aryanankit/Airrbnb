@@ -1,3 +1,5 @@
+Find the perfect place to stay at an amazing price in 191 countries. Belong anywhere with Airbnb-clone.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
