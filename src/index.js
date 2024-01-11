@@ -10,5 +10,4 @@ root.render(
     <center>
         <App />
     </center>
-    
 );
