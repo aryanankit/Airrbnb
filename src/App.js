@@ -18,7 +18,7 @@ export default function App() {
         <div>
             <Navbar />
             <Hero />
-            <section className="cards-list" style={{width:'50%', paddingLeft: '80px'}}>
+            <section className="cards-list" style={{width:'50%', paddingLeft: '81px'}}>
                 {cards}
             </section>
         </div>
