@@ -10,6 +10,8 @@ export default function Card(props) {
         badgeText = "ONLINE";
     }
 
+    //Card
+
     const coverImage = props.coverImg
     ? require(`./images/${props.coverImg}`)
     : null;
