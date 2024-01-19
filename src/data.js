@@ -19,8 +19,8 @@ export const data= [
         price: 125,
         coverImg: "wedding-photography.png",
         stats: {
-            rating: 5.0,
-            reviewCount: 30
+            rating: 5.5,
+            reviewCount: 90
         },
         location: "Online",
         openSpots: 27,
@@ -35,7 +35,7 @@ export const data= [
             rating: 4.7,
             reviewCount: 2
         },
-        location: "Norway",
-        openSpots: 3,
+        location: "India",
+        openSpots: 10,
     }
 ]
