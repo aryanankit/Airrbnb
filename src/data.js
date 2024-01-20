@@ -32,7 +32,7 @@ export const data= [
         price: 50,
         coverImg: "mountain-bike.png",
         stats: {
-            rating: 4.7,
+            rating: 4.8,
             reviewCount: 2
         },
         location: "India",
